@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "CrawlLama 🦙 is an  local AI agent that answers questions via Ollama and integrates web- and RAG-based research."
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
+# drop an unused branch
