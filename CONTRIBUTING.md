@@ -27,3 +27,4 @@ Notes and usage details for Crawllama.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
